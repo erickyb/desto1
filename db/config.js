@@ -15,3 +15,14 @@ module.exports = {
     }
   }
 }
+
+// module.exports = {
+//   development: {
+//     username: 'tu_usuario',
+//     password: 'tu_contraseña',
+//     database: 'nombre_de_tu_base_de_datos',
+//     host: 'localhost',
+
+//   },
+//   // Otras configuraciones (producción, prueba, etc.)
+// };
